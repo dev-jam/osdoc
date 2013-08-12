@@ -14,6 +14,7 @@ Screenshot
 
 ![](/img/fig/fig7.7.1.png)
 
+
 Setting the device name
 -----------------------
 
